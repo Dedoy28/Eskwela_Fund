@@ -22,3 +22,5 @@ To completely eradicate the logistical nightmare and lack of transparency in loc
 ## How to build
 ```bash
 soroban contract build
+
+<img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/7e534991-297a-4bad-8e80-63d2cdac76c5" />
